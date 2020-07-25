@@ -1,2 +1,2 @@
 # Latihan CSS Dasar
-# Belajar Bang
+# Belajar Bang Oke
